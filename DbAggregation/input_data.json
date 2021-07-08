@@ -1,0 +1,26 @@
+[
+    {
+        "model": "aggregation.Author",
+        "pk": 1,
+        "fields": {
+            "name": "Jane Austen",
+            "age": "63"
+        }
+    },
+    {
+        "model": "aggregation.Author",
+        "pk": 2,
+        "fields": {
+            "name": "Stendhal",
+            "age": "24"
+        }
+    },
+    {
+        "model": "aggregation.Author",
+        "pk": 3,
+        "fields": {
+            "name": "Balzac",
+            "age": "34"
+        }
+    }
+]

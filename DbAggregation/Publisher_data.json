@@ -1,0 +1,23 @@
+[
+    {
+        "model": "aggregation.Publisher",
+        "pk": 1,
+        "fields": {
+            "name": "sony"
+        }
+    },
+    {
+        "model": "aggregation.Publisher",
+        "pk": 2,
+        "fields": {
+            "name": "mkdi"
+        }
+    },
+    {
+        "model": "aggregation.Publisher",
+        "pk": 3,
+        "fields": {
+            "name": "indian"
+        }
+    }
+]

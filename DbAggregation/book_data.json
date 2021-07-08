@@ -1,0 +1,28 @@
+[
+    {
+        "model": "aggregation.Book",
+        "pk": 1,
+        "fields": {
+            "name": "The History of Tom Jones",
+            "pages": 524,
+            "price": 3245.45,
+            "rating": 4.2,
+            "authors": 1,
+            "publisher": 2,
+            "pubdate": "20-04-2021"
+        }
+    },
+    {
+        "model": "aggregation.Book",
+        "pk": 2,
+        "fields": {
+            "name": "Pride and Prejudice",
+            "pages": 300,
+            "price": 363.20,
+            "rating": 5,
+            "authors": 1,
+            "publisher": 2,
+            "pubdate": "23-04-2000"
+        }
+    }
+]
